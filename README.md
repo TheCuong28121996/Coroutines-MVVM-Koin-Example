@@ -7,7 +7,6 @@ This is an example of an Android App who uses coroutines flow to retrieve a list
 
 ## Dependencies
 
-- Material 1 [version: '1.1.0'](https://developer.android.com/guide/topics/ui/look-and-feel)
 - AndroidX [version: '1.0.0'](https://mvnrepository.com/artifact/androidx)
 - LifeCycleKtx 2 [version: '2.2.0'](https://developer.android.com/kotlin/ktx)
 - Koin 2 [version: '2.2.0'](https://insert-koin.io)
