@@ -6,7 +6,6 @@ This is an example of an Android App who uses coroutines flow to retrieve a list
 <img src="img/1.png" width="400" height="800" />
 
 ## Dependencies
-
 - Material 1 [version: '1.1.0'](https://developer.android.com/guide/topics/ui/look-and-feel)
 - AndroidX [version: '1.0.0'](https://mvnrepository.com/artifact/androidx)
 - LifeCycleKtx 2 [version: '2.2.0'](https://developer.android.com/kotlin/ktx)
